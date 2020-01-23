@@ -1,5 +1,7 @@
 package applicantion;
 
+import boardgame.Piece;
+import boardgame.Position;
 import chess.ChessPiece;
 
 public class UI {
@@ -23,4 +25,6 @@ public class UI {
 		}
 		System.out.print(" ");
 	}
+
+	
 }
